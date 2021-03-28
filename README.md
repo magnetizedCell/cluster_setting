@@ -3,6 +3,6 @@ A-lab cluster setting
 
 
 
-git cloneしてからmarkdownビューワで閲覧する
+git cloneなどでダウンロードしてからmarkdownビューワで閲覧する
 
 Best in markdown viewer after git clone
